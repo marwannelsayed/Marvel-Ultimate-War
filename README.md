@@ -3,6 +3,7 @@ Marvel themed 2-player board game using Java and Swing, the objective of the gam
 To download the game, clone this repository and run the Controller class.  
 
 ## Gameplay:
+https://www.youtube.com/watch?v=SabZdRMNQCU
 ![Game1!](G1.png)
 ![Game2!](G2.png)
 ![Game3!](G3.png)
